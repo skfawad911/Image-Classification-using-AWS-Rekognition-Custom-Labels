@@ -30,6 +30,7 @@ This project demonstrates how to use **AWS Rekognition Custom Labels** for class
 
 This repository focuses on building a custom image classification model using **AWS Rekognition** to identify various types of food. The model is trained with a dataset containing **80 labels** and **4000 images**. Once the model is trained, it can be used to classify new images and predict the type of food with a specified confidence level.
 
+  ![model_display](model.png)
 
 ## Prerequisites
 
