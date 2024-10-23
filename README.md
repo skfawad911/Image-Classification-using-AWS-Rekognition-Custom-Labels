@@ -47,10 +47,10 @@ Before you start, make sure you have the following:
 - **Dataset**: Image Datasets that you would like to train your model on
 
 ## Project Structure
-.
+```
 ├── test.py                   # Script to test the trained model with new images
 └──  README.md               # Project documentation (this file)
-
+```
 ## Setup Instructions
 
 ### Step 1: Prepare S3 Bucket
